@@ -1,4 +1,4 @@
-# hello-world
+# MyRoom
 MyRoom Social Network repository for Git
 This is an example repository for the Git tutoial on https://www.w3schools.com
 
