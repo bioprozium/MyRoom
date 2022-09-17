@@ -27,6 +27,6 @@ $proc = new gate;
     <footer>
         <?php echo gate::$HTML["FOOTER_BLOCK"];?>
     </footer>
-    <?php echo gate::$HTML["BODY_SCRIPT_BLOCK"];?>
+    <?php echo gate::$HTML["BODY_SCRIPTS_BLOCK"];?>
 </body>
 </html>
