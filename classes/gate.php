@@ -10,7 +10,7 @@ class gate
         "NAVIGATION_BLOCK"=>"",
         "MAIN_BLOCK"=>"",
         "FOOTER_BLOCK"=>"",
-        "BODY_SCRIPT_BLOCK"=>""
+        "BODY_SCRIPTS_BLOCK"=>""
     );
     function __construct()
     {
