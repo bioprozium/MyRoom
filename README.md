@@ -1,5 +1,5 @@
 # MyRoom
 MyRoom Social Network repository for Git
-This is an example repository for the Git tutoial on https://www.w3schools.com
+This is a project repository for development new social network in Azerbaijan
 
-This repository is built step by step in the tutorial.
+This repository is built step by step by @bioprozium
